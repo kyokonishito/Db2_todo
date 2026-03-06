@@ -1,3 +1,6 @@
+> [!NOTE]
+> このリポジトリは、[2026/03/06(金)開催「IBM Bobを使って、PostgreSQLのToDoアプリをDb2へ変換してみよう」](https://ibm-developer.connpass.com/event/384988/)のデモでIBM Bobが作成したアプリをそのまま公開しています。
+
 # Db2 TODO App
 
 このリポジトリは、**Db2 / Express / React / Node.js 構成**のシンプルなToDo アプリケーションです。
